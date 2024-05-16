@@ -1,5 +1,3 @@
-import { FaHeart } from 'react-icons/fa';
-
 function Footer() {
     return (
         <footer style={{ float: 'right', 'marginRight': '5%' }}>

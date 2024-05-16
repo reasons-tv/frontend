@@ -1,5 +1,4 @@
-import { createSlice, current } from '@reduxjs/toolkit'
-import * as d3 from "d3";
+import { createSlice } from '@reduxjs/toolkit'
 
 import { youtube_parser } from '../../utils';
 
